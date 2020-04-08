@@ -1,0 +1,75 @@
+.picture1{
+	display:flex;
+}
+.picture1 img{
+	margin-top:30px;
+	margin-left:2%;
+}
+.picture1-word{
+	margin-top:30px;
+	margin-left:1%;
+	width: 20%;
+	flex-wrap: wrap;
+}
+.picture1-span{
+	margin-top:120px;
+	margin-left:1%;
+}
+.picture1-span a{
+	color:#46b3af;
+}
+.picture2{
+	display:flex;
+	margin-top:-114px;
+	margin-right:2%;
+}
+.picture2 img{
+	margin-left:55%;
+}
+.picture2-word{
+	flex-wrap:wrap;
+	margin-left:1%;
+}
+.picture2-span{
+	margin-left:92%;
+}
+.picture2-div{
+	margin-top:-30px;
+}
+.picture2-span a{
+	color:#46b3af;
+}
+.picture3{
+	display:flex;
+	margin-top:100px;
+	margin-left:2%;
+	margin-right:56%;
+}
+.picture3-word{
+	flex-wrap:wrap;
+	margin-left:2%;
+}
+.picture3-div{
+	margin-left:39%;
+	margin-top:-28px;
+}
+.picture3-span a{
+	color:#46b3af;
+}
+.picture4{
+	display:flex;
+	margin-left:54%;
+	margin-top:-118px;
+	margin-right:2%;
+}
+.picture4-word{
+	flex-wrap:wrap;
+	margin-left:2%;
+}
+.picture4-div{
+	margin-left:92%;
+	margin-top:-28px;
+}
+.picture4-span a{
+	color:#46b3af;
+}

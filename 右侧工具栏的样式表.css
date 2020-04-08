@@ -1,0 +1,14 @@
+.right1,
+.right2,
+.right3{
+	position:fixed;
+	top:800px;
+	margin-left:22.5%;
+
+}
+.right1{
+	margin-top:-200px;
+}
+.right2{
+	margin-top:-100px;
+}

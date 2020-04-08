@@ -1,0 +1,79 @@
+body{
+	overflow-x:hidden;
+}
+.background img{
+	width:100%;
+	margin-top:1%;
+}
+
+.text1{
+	width:7%;
+	height:55px;
+	background-color:#1ba19d;
+	border:0px;
+	float: left;
+	margin-top:px;
+	color:#FFFFFF;
+	font-size:15px;
+}
+.text2{
+	width: 25%;
+	height:51px;
+	font-size:23px;
+	float: left;
+	margin-left:-0.1%
+}
+.text3{width:7%;
+	height:55px;
+	background-color:#1ba19d;
+	border:0px;
+	float: left;
+	color:#FFFFFF;
+	font-size:15px;
+}
+.text4{
+	width: 25%;
+	height:51px;
+	font-size:23px;
+	float: left;
+	margin-left:-0.1%
+}
+.search1{
+	position: relative;
+	top:-240px;
+	left:28%;
+}
+.search2{
+	position: relative;
+	top:-240px;
+	left:28%;
+	}
+.word10{
+	position: relative;
+	top:-250px;
+	left:532px;
+}
+.word10 a{
+	color:#FFFFFF;
+}
+.word10 span{
+	color:#FFFFFF;
+}
+.searchall{
+	position: relative;
+	top:-230px;
+	left:-3.5%;
+}
+.searchall a{
+	font-size: 20px;
+	color:#FFFFFF;
+}
+.searchname{
+	position: relative;
+	top: -225px;
+	left:-3.5%;
+}
+.searchname a{
+	font-size:20px;
+	color:#FFFFFF;
+}
